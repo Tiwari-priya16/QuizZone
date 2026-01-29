@@ -1,5 +1,5 @@
 body{
-    background-image:url("pic/temp.jpg");
+    background-image:url("temp.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
@@ -583,4 +583,5 @@ body.tc-show {
     background: white;
     border-radius: 4px;
     cursor: pointer;
+
 }
